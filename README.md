@@ -4,4 +4,5 @@
 ## 上課網頁
 https://meet.google.com/bio-hmps-bpr
 
-## [2023_10_14_早上
+## 2023_10_14_早上
+[錄影](http://youtube.com/live/YWTf5MMutsy)
