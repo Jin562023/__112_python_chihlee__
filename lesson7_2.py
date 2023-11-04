@@ -8,7 +8,7 @@ def main():
         if playAgain == 'n':
             break
 
-     print("遊戲結束")
+    print("遊戲結束")
 
 if __name__ == "__main__":
     main()
