@@ -7,7 +7,7 @@ def playGame():
     print(target)
     print("============猜數字遊戲=================\n")
     while(True):
-            keyin = int(input(f"猜數字的範圍{min}~{max}"))
+        keyin = int(input(f"猜數字的範圍{min}~{max}"))
             count += 1
             if(keyin >= min and keyin <= max):
                 if keyin == target:
