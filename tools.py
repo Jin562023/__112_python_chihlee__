@@ -33,7 +33,7 @@ class Student():
         self.name = name
         self.chinese = chinese
         self.english = english
-        self.math = match
+        self.math = math
 
     def sum(self)->int: #實體方法
         return self.chinese + self.english + self.math  
